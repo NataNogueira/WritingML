@@ -53,6 +53,5 @@ O objetivo principal deste projeto é desenvolver e treinar um modelo de Machine
 <h3 align="center">
   <div style="display: inline_block"><br>
     <img align="center" alt="Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
-    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   </div>
 </h3>
