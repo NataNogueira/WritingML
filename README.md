@@ -32,9 +32,12 @@ O objetivo principal deste projeto é desenvolver e treinar um modelo de Machine
 - __Treinamento do Modelo:__ Usaremos um modelo de Machine Learning adequado para aprender as diferenças entre textos escritos por humanos e por máquinas. Esse projeto utilizará o modelo de correção de redação do ENEM, que contém 5 competências que totalizam 100% da nota.
 
     `Competência 1 - Nota Máxima = 200`: Demonstrar domínio da modalidade escrita formal da língua portuguesa.
-    `Competência 2 - Nota Máxima = 200`: Compreender a proposta de redação e aplicar conceitos das várias áreas de conhecimento para desenvolver o tema. 
+    `Competência 2 - Nota Máxima = 200`: Compreender a proposta de redação e aplicar conceitos das várias áreas de conhecimento para desenvolver o tema.
+
     `Competência 3 - Nota Máxima = 200`: Selecionar, relacionar, organizar e interpretar informações, fatos, opiniões e argumentos em defesa de um ponto de vista.
+
     `Competência 4 - Nota Máxima = 200`: Demonstrar conhecimento dos mecanismos linguísticos necessários para a construção da argumentação.
+    
     `Competência 5 - Nota Máxima = 200`: Elaborar proposta de intervenção para o problema abordado, respeitando os direitos humanos.
 
 
