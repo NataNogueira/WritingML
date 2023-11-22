@@ -25,7 +25,7 @@ O objetivo principal deste projeto é desenvolver e treinar um modelo de Machine
 
 `PT-BR`
 
-- __Coleta de Dados:__ Para este projeto, coletaremos dados humanos das redações nota mil do ano de 2022 do [site G1](https://g1.globo.com/educacao/noticia/2023/04/10/enem-2022-leia-redacoes-nota-mil.ghtml).
+- __Coleta de Dados:__ Para este projeto, coletaremos dados humanos das redações nota mil do ano de 2022 do [site G1](https://g1.globo.com/educacao/noticia/2023/04/10/enem-2022-leia-redacoes-nota-mil.ghtml) e redações geradas pela IA mais famosa atualmente, o [chat gpt](https://chat.openai.com/).
 
 - __Pré-processamento de Dados:__ Limparemos e formataremos nossos dados para garantir que estejam em um formato que nosso modelo de Machine Learning possa entender.
 
@@ -47,7 +47,10 @@ O objetivo principal deste projeto é desenvolver e treinar um modelo de Machine
 
 
 ## Bibliotecas utilizadas 💻
-- 
+- `Sklearn` - importa a maioria das ferramentas desta
+- `Os` - utilizada para manipular os arquivos
+- `CountVectorizer` - utilizada para tokenização dos arquivos
+- `MultinomialNB` - modelo utilizado do ML
 
 ##
 <h3 align="center">
